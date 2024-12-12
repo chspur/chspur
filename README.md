@@ -1,1 +1,1 @@
-![Header](strawhats.webp)
+Hi, my name is Stephen. ( ͡° ͜ʖ ͡°)
