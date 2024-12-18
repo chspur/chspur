@@ -1,1 +1,1 @@
-Hi, my name is Stephen. ( ͡° ͜ʖ ͡°)
+Hi, my name is Stephen.
