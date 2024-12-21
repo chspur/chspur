@@ -13,6 +13,5 @@
   <img src="strawhats.webp"/>
   <h2>:fire: My Stats :fire:</h2>
   <img src="https://streak-stats.demolab.com?user=chspur&theme=tokyonight-duo&border=222288&stroke=222288&ring=BF91F3&fire=BF91F3&currStreakNum=70A5FD&currStreakLabel=70A5FD&dates=BF91F3&background=000000" alt="Streak Stats"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&bg_color=000000&title_color=70A5FD&text_color=BF91F3&border_color=222288" alt="Top Langs"/>
 </div>
