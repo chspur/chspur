@@ -1,0 +1,15 @@
+GitHub Readme Streak Stats Color Scheme
+
+[
+  "background" => "#000000",
+  "border" => "#222288",
+  "stroke" => "#222288",
+  "ring" => "#BF91F3",
+  "fire" => "#BF91F3",
+  "currStreakNum" => "#70A5FD",
+  "sideNums" => "#70A5FD",
+  "currStreakLabel" => "#70A5FD",
+  "sideLabels" => "#70A5FD",
+  "dates" => "#BF91F3",
+  "excludeDaysLabel" => "#38BDAE",
+]
