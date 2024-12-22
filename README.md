@@ -12,7 +12,6 @@
 <div align="center">
   <img src="strawhats.webp"/>
   <h2>:fire: My Stats :fire:</h2>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lzy0t45x0-chspurs-projects.vercel.app?user=chspur" alt="GitHub Streak" /></a>
-  <img src="https://streak-stats.demolab.com?user=chspur&theme=tokyonight-duo&border=222288&stroke=222288&ring=BF91F3&fire=BF91F3&currStreakNum=70A5FD&currStreakLabel=70A5FD&dates=BF91F3&background=000000" alt="Streak Stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-sigma.vercel.app?user=chspur&theme=tokyonight-duo&border=222288&stroke=222288&ring=BF91F3&fire=BF91F3&currStreakNum=70A5FD&currStreakLabel=70A5FD&dates=BF91F3&background=000000" alt="GitHub Streak"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&bg_color=000000&title_color=70A5FD&text_color=BF91F3&border_color=222288" alt="Top Langs"/>
 </div>
