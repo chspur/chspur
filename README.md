@@ -12,7 +12,6 @@
 </div>
 
 <div align="center">
-  <h2>My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight&bg_color=000000&title_color=BF91F3&text_color=70A5FD&border_color=222288" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&bg_color=000000&title_color=BF91F3&text_color=70A5FD&border_color=222288" alt="Top Langs"/>
   <br>
