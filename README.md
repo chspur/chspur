@@ -11,9 +11,9 @@
 <div align="center">
   <h2>:fire: My Stats :fire:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight&bg_color=000000&title_color=BF91F3&text_color=70A5FD&border_color=222288" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&bg_color=000000&title_color=BF91F3&text_color=70A5FD&border_color=222288" alt="Top Langs"/>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-sigma.vercel.app?user=chspur&theme=tokyonight-duo&border=222288&stroke=222288&ring=BF91F3&fire=BF91F3&currStreakNum=70A5FD&currStreakLabel=70A5FD&dates=BF91F3&background=000000" alt="GitHub Streak"/></a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&bg_color=000000&title_color=BF91F3&text_color=70A5FD&border_color=222288" alt="Top Langs"/>
 </div>
 <img src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
