@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="strawhats.webp"/>
   <h1>Hi, I'm Stephen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <img src="https://komarev.com/ghpvc/?username=chspur&style=for-the-badge&color=222288" alt="Profile Views"/>
+  <img src="strawhats.webp"/>
 </div>
 
 <div id="badges" align="center">
