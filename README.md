@@ -4,12 +4,12 @@
   <br>
   <a href="https://www.linkedin.com/in/stw51924"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://leetcode.com/u/chspur/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/></a>
-  <hr>
-  <img src="strawhats.webp"/>
-  <hr>
 </div>
 
 <div align="center">
+  <hr>
+  <img src="strawhats.webp"/>
+  <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight" alt="Top Langs"/></a>
   <br>
