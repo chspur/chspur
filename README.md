@@ -32,6 +32,7 @@
 - [wait for the Lord](https://blog.swang.cloud/2024/12/17/wait-for-the-Lord/)
 - [consistency is key](https://blog.swang.cloud/2024/12/16/consistency-is-key/)
 <!-- BLOG-POST-LIST:END -->
-<div align="center">
+
+<div id="footer" align="center">
   <img src="https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
 </div>
