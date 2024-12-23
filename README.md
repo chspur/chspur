@@ -17,7 +17,7 @@
   <hr>
 </div>
 
-### :writing_hand: Latest Blog Posts
+## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [new and old friends](https://blog.swang.cloud/2024/12/22/new-and-old-friends/)
 - [soup n fresh](https://blog.swang.cloud/2024/12/21/soup-n-fresh/)
