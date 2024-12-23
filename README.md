@@ -29,6 +29,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
+  <hr>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
