@@ -20,6 +20,11 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-sigma.vercel.app?user=chspur&theme=tokyonight" alt="GitHub Streak"/></a>
   <hr>
-  <img src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <!--<img src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation"/>-->
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&customColorList=6&height=200"/>-->
 </div>
