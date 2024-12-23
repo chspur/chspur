@@ -24,4 +24,9 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [new and old friends](https://blog.swang.cloud/2024/12/22/new-and-old-friends/)
+- [soup n fresh](https://blog.swang.cloud/2024/12/21/soup-n-fresh/)
+- [github profile](https://blog.swang.cloud/2024/12/20/github-profile/)
+- [one thing](https://blog.swang.cloud/2024/12/19/one-thing/)
+- [working on my blog](https://blog.swang.cloud/2024/12/18/working-on-my-blog/)
 <!-- BLOG-POST-LIST:END -->
