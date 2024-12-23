@@ -15,14 +15,9 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=tokyonight" alt="GitHub Streak"/></a>
   <hr>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
-## Latest Blog posts
+### :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [new and old friends](https://blog.swang.cloud/2024/12/22/new-and-old-friends/)
 - [soup n fresh](https://blog.swang.cloud/2024/12/21/soup-n-fresh/)
@@ -32,3 +27,11 @@
 - [wait for the Lord](https://blog.swang.cloud/2024/12/17/wait-for-the-Lord/)
 - [consistency is key](https://blog.swang.cloud/2024/12/16/consistency-is-key/)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
