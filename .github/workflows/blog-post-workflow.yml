@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://blog.swang.cloud/feed.xml"
           max_post_count: 7
-          template: $counter
+          template: <li>$date</li>
