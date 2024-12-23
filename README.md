@@ -23,4 +23,4 @@
 </div>
 
 ## Latest Blog posts
-<!-- BLOG-POST-LIST:START -->1234567<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li>Sun Dec 22 2024 12:00 AM</li><li>Sat Dec 21 2024 12:00 AM</li><li>Fri Dec 20 2024 12:00 AM</li><li>Thu Dec 19 2024 12:00 AM</li><li>Wed Dec 18 2024 12:00 AM</li><li>Tue Dec 17 2024 12:00 AM</li><li>Mon Dec 16 2024 12:00 AM</li><!-- BLOG-POST-LIST:END -->
