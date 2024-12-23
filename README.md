@@ -23,10 +23,4 @@
 </div>
 
 ## Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [new and old friends](https://blog.swang.cloud/2024/12/22/new-and-old-friends/)
-- [soup n fresh](https://blog.swang.cloud/2024/12/21/soup-n-fresh/)
-- [github profile](https://blog.swang.cloud/2024/12/20/github-profile/)
-- [one thing](https://blog.swang.cloud/2024/12/19/one-thing/)
-- [working on my blog](https://blog.swang.cloud/2024/12/18/working-on-my-blog/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->Sun Dec 22 2024 12:00 AMSat Dec 21 2024 12:00 AMFri Dec 20 2024 12:00 AMThu Dec 19 2024 12:00 AMWed Dec 18 2024 12:00 AMTue Dec 17 2024 12:00 AMMon Dec 16 2024 12:00 AM<!-- BLOG-POST-LIST:END -->
