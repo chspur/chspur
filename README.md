@@ -21,3 +21,7 @@
     <img alt="github-snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
