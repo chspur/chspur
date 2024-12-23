@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight" alt="Top Langs"/></a>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-sigma.vercel.app?user=chspur&theme=tokyonight" alt="GitHub Streak"/></a>
   <hr>
