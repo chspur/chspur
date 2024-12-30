@@ -11,28 +11,25 @@
   <img src="strawhats.webp"/>
   <hr>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=buefy" />
-    <img alt="GitHub Streak Stats" src="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=buefy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=buefy"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=buefy"/>
   </picture>
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></a>-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=buefy" />
-    <img alt="GitHub Streak Stats" src="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=buefy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=buefy"/>
+    <img alt="Top Langs" src="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=buefy"/>
   </picture>
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chspurs-projects.vercel.app/api/top-langs/?username=chspur&layout=compact&theme=tokyonight" alt="Top Langs"/></a>-->
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=buefy" />
-    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=buefy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=buefy"/>
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=buefy"/>
   </picture>
-  <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chspurs-projects.vercel.app?user=chspur&theme=tokyonight" alt="GitHub Streak"/></a>-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contributions Snake" src="https://github.com/chspur/chspur/blob/output/github-contribution-grid-snake.svg"/>
   </picture>
   <hr>
 </div>
