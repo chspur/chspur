@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [consistency is key](https://blog.swang.cloud/2024/12/30/consistency-is-key/)
 - [an undying love](https://blog.swang.cloud/2024/12/29/an-undying-love/)
 - [driving back](https://blog.swang.cloud/2024/12/28/driving-back/)
 - [jellies](https://blog.swang.cloud/2024/12/27/jellies/)
 - [fish are cool](https://blog.swang.cloud/2024/12/26/fish-are-cool/)
 - [aquarium christmas trip](https://blog.swang.cloud/2024/12/25/aquarium-christmas-trip/)
 - [psalm 119](https://blog.swang.cloud/2024/12/24/psalm-119/)
-- [small headache](https://blog.swang.cloud/2024/12/23/small-headache/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
