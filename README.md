@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [officially presbyterian](https://blog.swang.cloud/2025/01/10/officially-presbyterian/)
 - [cars, books, and projects](https://blog.swang.cloud/2025/01/09/cars-books-and-projects/)
 - [pool closed](https://blog.swang.cloud/2025/01/08/pool-closed/)
 - [power outage](https://blog.swang.cloud/2025/01/07/power-outage/)
 - [seek for more](https://blog.swang.cloud/2025/01/06/seek-for-more/)
 - [supplement your faith](https://blog.swang.cloud/2025/01/05/supplement-your-faith/)
 - [watchfulness over prayer](https://blog.swang.cloud/2025/01/04/watchfulness-over-prayer/)
-- [new year’s resolution](https://blog.swang.cloud/2025/01/03/new-year's-resolution/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
