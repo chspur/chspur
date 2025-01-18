@@ -36,7 +36,7 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [tacos and tea](https://blog.swang.cloud/2025/01/17/tacos-and-tea/)
+- [quesadillas and tea](https://blog.swang.cloud/2025/01/17/quesadillas-and-tea/)
 - [pixel 9](https://blog.swang.cloud/2025/01/16/pixel-9/)
 - [true religion](https://blog.swang.cloud/2025/01/15/true-religion/)
 - [free chick-fil-a](https://blog.swang.cloud/2025/01/14/free-chick-fil-a/)
