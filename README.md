@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tacos and tea](https://blog.swang.cloud/2025/01/17/tacos-and-tea/)
 - [pixel 9](https://blog.swang.cloud/2025/01/16/pixel-9/)
 - [true religion](https://blog.swang.cloud/2025/01/15/true-religion/)
 - [free chick-fil-a](https://blog.swang.cloud/2025/01/14/free-chick-fil-a/)
 - [the council](https://blog.swang.cloud/2025/01/13/the-council/)
 - [the flesh](https://blog.swang.cloud/2025/01/12/the-flesh/)
 - [phone repair](https://blog.swang.cloud/2025/01/11/phone-repair/)
-- [officially presbyterian](https://blog.swang.cloud/2025/01/10/officially-presbyterian/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
