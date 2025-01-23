@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [grinding my teeth](https://blog.swang.cloud/2025/01/22/grinding-my-teeth/)
 - [tuesday swim](https://blog.swang.cloud/2025/01/21/tuesday-swim/)
 - [honorable conduct](https://blog.swang.cloud/2025/01/20/honorable-conduct/)
 - [members meeting](https://blog.swang.cloud/2025/01/19/members-meeting/)
 - [pinwheel pasta](https://blog.swang.cloud/2025/01/18/pinwheel-pasta/)
 - [quesadillas and tea](https://blog.swang.cloud/2025/01/17/quesadillas-and-tea/)
 - [pixel 9](https://blog.swang.cloud/2025/01/16/pixel-9/)
-- [true religion](https://blog.swang.cloud/2025/01/15/true-religion/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
