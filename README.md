@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [the secret of power](https://blog.swang.cloud/2025/01/24/the-secret-of-power/)
 - [lunch meetup](https://blog.swang.cloud/2025/01/23/lunch-meetup/)
 - [grinding my teeth](https://blog.swang.cloud/2025/01/22/grinding-my-teeth/)
 - [tuesday swim](https://blog.swang.cloud/2025/01/21/tuesday-swim/)
 - [honorable conduct](https://blog.swang.cloud/2025/01/20/honorable-conduct/)
 - [members meeting](https://blog.swang.cloud/2025/01/19/members-meeting/)
 - [pinwheel pasta](https://blog.swang.cloud/2025/01/18/pinwheel-pasta/)
-- [quesadillas and tea](https://blog.swang.cloud/2025/01/17/quesadillas-and-tea/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
