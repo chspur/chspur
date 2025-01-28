@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [whole cake island](https://blog.swang.cloud/2025/01/27/whole-cake-island/)
 - [hotpot and boba](https://blog.swang.cloud/2025/01/26/hotpot-and-boba/)
 - [unction](https://blog.swang.cloud/2025/01/25/unction/)
 - [the secret of power](https://blog.swang.cloud/2025/01/24/the-secret-of-power/)
 - [lunch meetup](https://blog.swang.cloud/2025/01/23/lunch-meetup/)
 - [grinding my teeth](https://blog.swang.cloud/2025/01/22/grinding-my-teeth/)
 - [tuesday swim](https://blog.swang.cloud/2025/01/21/tuesday-swim/)
-- [honorable conduct](https://blog.swang.cloud/2025/01/20/honorable-conduct/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
