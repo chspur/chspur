@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [high estimation of prayer](https://blog.swang.cloud/2025/01/31/high-estimation-of-prayer/)
 - [retiring from chess](https://blog.swang.cloud/2025/01/30/retiring-from-chess/)
 - [space-time smackdown](https://blog.swang.cloud/2025/01/29/space-time-smackdown/)
 - [more time for prayer](https://blog.swang.cloud/2025/01/28/more-time-for-prayer/)
 - [whole cake island](https://blog.swang.cloud/2025/01/27/whole-cake-island/)
 - [hotpot and boba](https://blog.swang.cloud/2025/01/26/hotpot-and-boba/)
 - [unction](https://blog.swang.cloud/2025/01/25/unction/)
-- [the secret of power](https://blog.swang.cloud/2025/01/24/the-secret-of-power/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
