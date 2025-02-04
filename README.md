@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [an interesting group](https://blog.swang.cloud/2025/02/03/an-interesting-group/)
 - [much forgiven](https://blog.swang.cloud/2025/02/02/much-forgiven/)
 - [hurried devotions](https://blog.swang.cloud/2025/02/01/hurried-devotions/)
 - [high estimation of prayer](https://blog.swang.cloud/2025/01/31/high-estimation-of-prayer/)
 - [retiring from chess](https://blog.swang.cloud/2025/01/30/retiring-from-chess/)
 - [space-time smackdown](https://blog.swang.cloud/2025/01/29/space-time-smackdown/)
 - [more time for prayer](https://blog.swang.cloud/2025/01/28/more-time-for-prayer/)
-- [whole cake island](https://blog.swang.cloud/2025/01/27/whole-cake-island/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
