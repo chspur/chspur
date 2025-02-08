@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [nice resumes](https://blog.swang.cloud/2025/02/07/nice-resumes/)
 - [the power of prayer](https://blog.swang.cloud/2025/02/06/the-power-of-prayer/)
 - [the apostles’ creed](https://blog.swang.cloud/2025/02/05/the-apostles-creed/)
 - [goodbye dust jackets](https://blog.swang.cloud/2025/02/04/goodbye-dust-jackets/)
 - [an interesting group](https://blog.swang.cloud/2025/02/03/an-interesting-group/)
 - [much forgiven](https://blog.swang.cloud/2025/02/02/much-forgiven/)
 - [hurried devotions](https://blog.swang.cloud/2025/02/01/hurried-devotions/)
-- [high estimation of prayer](https://blog.swang.cloud/2025/01/31/high-estimation-of-prayer/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
