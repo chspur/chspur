@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pleading the promises](https://blog.swang.cloud/2025/02/11/pleading-the-promises/)
 - [first in-person interview](https://blog.swang.cloud/2025/02/10/first-in-person-interview/)
 - [no time](https://blog.swang.cloud/2025/02/09/no-time/)
 - [old suit](https://blog.swang.cloud/2025/02/08/old-suit/)
 - [nice resumes](https://blog.swang.cloud/2025/02/07/nice-resumes/)
 - [the power of prayer](https://blog.swang.cloud/2025/02/06/the-power-of-prayer/)
 - [the apostles’ creed](https://blog.swang.cloud/2025/02/05/the-apostles-creed/)
-- [goodbye dust jackets](https://blog.swang.cloud/2025/02/04/goodbye-dust-jackets/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
