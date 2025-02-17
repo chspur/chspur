@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [He bore our sins](https://blog.swang.cloud/2025/02/16/he-bore-our-sins/)
 - [saturday swim](https://blog.swang.cloud/2025/02/15/saturday-swim/)
 - [first job](https://blog.swang.cloud/2025/02/14/first-job/)
 - [round two](https://blog.swang.cloud/2025/02/13/round-two/)
 - [second desk](https://blog.swang.cloud/2025/02/12/second-desk/)
 - [pleading the promises](https://blog.swang.cloud/2025/02/11/pleading-the-promises/)
 - [first in-person interview](https://blog.swang.cloud/2025/02/10/first-in-person-interview/)
-- [no time](https://blog.swang.cloud/2025/02/09/no-time/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
