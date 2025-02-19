@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [whatever my God ordains is right](https://blog.swang.cloud/2025/02/18/whatever-my-God-ordains-is-right/)
 - [devotional doctrine](https://blog.swang.cloud/2025/02/17/devotional-doctrine/)
-- [He bore our sins](https://blog.swang.cloud/2025/02/16/he-bore-our-sins/)
+- [He bore our sins](https://blog.swang.cloud/2025/02/16/He-bore-our-sins/)
 - [saturday swim](https://blog.swang.cloud/2025/02/15/saturday-swim/)
 - [first job](https://blog.swang.cloud/2025/02/14/first-job/)
 - [round two](https://blog.swang.cloud/2025/02/13/round-two/)
 - [second desk](https://blog.swang.cloud/2025/02/12/second-desk/)
-- [pleading the promises](https://blog.swang.cloud/2025/02/11/pleading-the-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
