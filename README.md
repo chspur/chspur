@@ -36,13 +36,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [the council convenes](https://blog.swang.cloud/2025/02/20/the-council-convenes/)
 - [He leads the humble](https://blog.swang.cloud/2025/02/19/He-leads-the-humble/)
 - [whatever my God ordains is right](https://blog.swang.cloud/2025/02/18/whatever-my-God-ordains-is-right/)
 - [devotional doctrine](https://blog.swang.cloud/2025/02/17/devotional-doctrine/)
 - [He bore our sins](https://blog.swang.cloud/2025/02/16/He-bore-our-sins/)
 - [saturday swim](https://blog.swang.cloud/2025/02/15/saturday-swim/)
 - [first job](https://blog.swang.cloud/2025/02/14/first-job/)
-- [round two](https://blog.swang.cloud/2025/02/13/round-two/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
