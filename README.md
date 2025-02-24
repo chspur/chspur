@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Stephen&animation=fadeIn&type=waving&color=gradient&customColorList=6&height=150&fontSize=50&fontAlignY=30&stroke=FFFFFF&strokeWidth=1&fontColor=222288"/>
-  <a href="https://www.linkedin.com/in/stw51924"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://komarev.com/ghpvc/?username=chspur&style=for-the-badge&color=222288" alt="Profile Views"/>
+  <br>
+  <a href="https://www.linkedin.com/in/stw51924"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
 <div align="center">
