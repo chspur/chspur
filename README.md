@@ -35,13 +35,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [helping mom](https://blog.swang.cloud/2025/02/24/helping-mom/)
 - [spiritual healing](https://blog.swang.cloud/2025/02/23/spiritual-healing/)
 - [wing stop](https://blog.swang.cloud/2025/02/22/wing-stop/)
 - [so tired](https://blog.swang.cloud/2025/02/21/so-tired/)
 - [the council convenes](https://blog.swang.cloud/2025/02/20/the-council-convenes/)
 - [He leads the humble](https://blog.swang.cloud/2025/02/19/He-leads-the-humble/)
 - [whatever my God ordains is right](https://blog.swang.cloud/2025/02/18/whatever-my-God-ordains-is-right/)
-- [devotional doctrine](https://blog.swang.cloud/2025/02/17/devotional-doctrine/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
