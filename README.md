@@ -35,13 +35,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [stop the cap](https://blog.swang.cloud/2025/02/27/stop-the-cap/)
 - [regular times](https://blog.swang.cloud/2025/02/26/regular-times/)
 - [the council deliberates](https://blog.swang.cloud/2025/02/25/the-council-deliberates/)
 - [helping mom](https://blog.swang.cloud/2025/02/24/helping-mom/)
 - [spiritual healing](https://blog.swang.cloud/2025/02/23/spiritual-healing/)
 - [wing stop](https://blog.swang.cloud/2025/02/22/wing-stop/)
 - [so tired](https://blog.swang.cloud/2025/02/21/so-tired/)
-- [the council convenes](https://blog.swang.cloud/2025/02/20/the-council-convenes/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
