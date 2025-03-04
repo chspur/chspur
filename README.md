@@ -35,13 +35,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [last monday](https://blog.swang.cloud/2025/03/03/last-monday/)
 - [no harmless thing](https://blog.swang.cloud/2025/03/02/no-harmless-thing/)
 - [bacio di latte](https://blog.swang.cloud/2025/03/01/bacio-di-latte/)
 - [10:30pm](https://blog.swang.cloud/2025/02/28/10-30-pm/)
 - [stop the cap](https://blog.swang.cloud/2025/02/27/stop-the-cap/)
 - [regular times](https://blog.swang.cloud/2025/02/26/regular-times/)
 - [the council deliberates](https://blog.swang.cloud/2025/02/25/the-council-deliberates/)
-- [helping mom](https://blog.swang.cloud/2025/02/24/helping-mom/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
