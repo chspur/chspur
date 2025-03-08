@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [first day of work](https://blog.swang.cloud/2025/03/07/first-day-of-work/)
 - [last day of freedom](https://blog.swang.cloud/2025/03/06/last-day-of-freedom/)
 - [sandwich ingredients](https://blog.swang.cloud/2025/03/05/sandwich-ingredients/)
 - [home all day](https://blog.swang.cloud/2025/03/04/home-all-day/)
 - [last monday](https://blog.swang.cloud/2025/03/03/last-monday/)
 - [no harmless thing](https://blog.swang.cloud/2025/03/02/no-harmless-thing/)
 - [bacio di latte](https://blog.swang.cloud/2025/03/01/bacio-di-latte/)
-- [10:30pm](https://blog.swang.cloud/2025/02/28/10-30-pm/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
