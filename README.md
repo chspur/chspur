@@ -9,6 +9,16 @@
   <hr>
   <img src="strawhats.webp"/>
   <hr>
+</div>
+
+## :sunglasses: About Me
+- :latin_cross: Christian, Protestant, Reformed, Presbyterian
+- :trident: UCSD Computer Science
+- :man_technologist: Product Data Specialist @ Concordia Supply
+- :sparkles: Reading, Swimming, Anime
+
+<div align="center">
+  <hr>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=tokyonight"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-chspurs-projects.vercel.app/api?username=chspur&show_icons=true&theme=buefy"/>
