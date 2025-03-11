@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [whitefield and burns](https://blog.swang.cloud/2025/03/10/whitefield-and-burns/)
 - [soccer fellowship](https://blog.swang.cloud/2025/03/09/soccer-fellowship/)
 - [league with the bois](https://blog.swang.cloud/2025/03/08/league-with-the-bois/)
 - [first day of work](https://blog.swang.cloud/2025/03/07/first-day-of-work/)
 - [last day of freedom](https://blog.swang.cloud/2025/03/06/last-day-of-freedom/)
 - [sandwich ingredients](https://blog.swang.cloud/2025/03/05/sandwich-ingredients/)
 - [home all day](https://blog.swang.cloud/2025/03/04/home-all-day/)
-- [last monday](https://blog.swang.cloud/2025/03/03/last-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
