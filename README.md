@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [great responsibility](https://blog.swang.cloud/2025/03/16/great-responsibility/)
 - [praise and thanksgiving](https://blog.swang.cloud/2025/03/15/praise-and-thanksgiving/)
 - [first week of work](https://blog.swang.cloud/2025/03/14/first-week-of-work/)
 - [all staff meeting](https://blog.swang.cloud/2025/03/13/all-staff-meeting/)
 - [after work swim](https://blog.swang.cloud/2025/03/12/after-work-swim/)
 - [new schedule](https://blog.swang.cloud/2025/03/11/new-schedule/)
 - [whitefield and burns](https://blog.swang.cloud/2025/03/10/whitefield-and-burns/)
-- [soccer fellowship](https://blog.swang.cloud/2025/03/09/soccer-fellowship/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
