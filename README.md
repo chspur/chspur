@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [vscode theme](https://blog.swang.cloud/2025/03/19/vscode-theme/)
 - [credit card](https://blog.swang.cloud/2025/03/18/credit-card/)
 - [on the phones](https://blog.swang.cloud/2025/03/17/on-the-phones/)
 - [great responsibility](https://blog.swang.cloud/2025/03/16/great-responsibility/)
 - [praise and thanksgiving](https://blog.swang.cloud/2025/03/15/praise-and-thanksgiving/)
 - [first week of work](https://blog.swang.cloud/2025/03/14/first-week-of-work/)
 - [all staff meeting](https://blog.swang.cloud/2025/03/13/all-staff-meeting/)
-- [after work swim](https://blog.swang.cloud/2025/03/12/after-work-swim/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
