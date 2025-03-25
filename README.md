@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [swim days](https://blog.swang.cloud/2025/03/24/swim-days/)
 - [the ami pirates](https://blog.swang.cloud/2025/03/23/the-ami-pirates/)
 - [back from retreat](https://blog.swang.cloud/2025/03/22/back-from-retreat/)
 - [going to retreat](https://blog.swang.cloud/2025/03/21/going-to-retreat/)
 - [spontaneous calls](https://blog.swang.cloud/2025/03/20/spontaneous-calls/)
 - [vscode theme](https://blog.swang.cloud/2025/03/19/vscode-theme/)
 - [credit card](https://blog.swang.cloud/2025/03/18/credit-card/)
-- [on the phones](https://blog.swang.cloud/2025/03/17/on-the-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
