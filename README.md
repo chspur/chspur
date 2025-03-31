@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [my everything](https://blog.swang.cloud/2025/03/30/my-everything/)
 - [hike with the guys](https://blog.swang.cloud/2025/03/29/hike-with-the-guys/)
 - [downtime](https://blog.swang.cloud/2025/03/28/downtime/)
 - [free lunch](https://blog.swang.cloud/2025/03/27/free-lunch/)
 - [last minute call](https://blog.swang.cloud/2025/03/26/last-minute-call/)
 - [first credit card](https://blog.swang.cloud/2025/03/25/first-credit-card/)
 - [swim days](https://blog.swang.cloud/2025/03/24/swim-days/)
-- [the ami pirates](https://blog.swang.cloud/2025/03/23/the-ami-pirates/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
