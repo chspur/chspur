@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sermon 42](https://blog.swang.cloud/2025/04/03/sermon-42/)
 - [swim struggles](https://blog.swang.cloud/2025/04/02/swim-struggles/)
 - [dinner with chen](https://blog.swang.cloud/2025/04/01/dinner-with-chen/)
 - [finished training](https://blog.swang.cloud/2025/03/31/finished-training/)
 - [my everything](https://blog.swang.cloud/2025/03/30/my-everything/)
 - [hike with the guys](https://blog.swang.cloud/2025/03/29/hike-with-the-guys/)
 - [downtime](https://blog.swang.cloud/2025/03/28/downtime/)
-- [free lunch](https://blog.swang.cloud/2025/03/27/free-lunch/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
