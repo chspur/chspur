@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [super tired](https://blog.swang.cloud/2025/04/09/super-tired/)
 - [sermon 43](https://blog.swang.cloud/2025/04/08/sermon-43/)
 - [prints and stickers](https://blog.swang.cloud/2025/04/07/prints-and-stickers/)
 - [ordination service](https://blog.swang.cloud/2025/04/06/ordination-service/)
 - [bass pro shops](https://blog.swang.cloud/2025/04/05/bass-pro-shops/)
 - [council call](https://blog.swang.cloud/2025/04/04/council-call/)
 - [sermon 42](https://blog.swang.cloud/2025/04/03/sermon-42/)
-- [swim struggles](https://blog.swang.cloud/2025/04/02/swim-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
