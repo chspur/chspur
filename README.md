@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [psalm 103](https://blog.swang.cloud/2025/04/15/psalm-103/)
 - [limited edition sproul](https://blog.swang.cloud/2025/04/14/limited-edition-sproul/)
 - [gmc 28th birthday](https://blog.swang.cloud/2025/04/13/gmc-28th-birthday/)
 - [sermon 44](https://blog.swang.cloud/2025/04/12/sermon-44/)
 - [work convos](https://blog.swang.cloud/2025/04/11/work-convos/)
 - [chen birthday](https://blog.swang.cloud/2025/04/10/chen-birthday/)
 - [super tired](https://blog.swang.cloud/2025/04/09/super-tired/)
-- [sermon 43](https://blog.swang.cloud/2025/04/08/sermon-43/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
