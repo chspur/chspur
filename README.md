@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [dad’s birthday, pope’s deathday](https://blog.swang.cloud/2025/04/21/dads-birthday-popes-deathday/)
 - [resurrection sunday](https://blog.swang.cloud/2025/04/20/resurrection-sunday/)
 - [laker game](https://blog.swang.cloud/2025/04/19/laker-game/)
 - [good friday](https://blog.swang.cloud/2025/04/18/good-friday/)
 - [golf and suits](https://blog.swang.cloud/2025/04/17/golf-and-suits/)
 - [swim days](https://blog.swang.cloud/2025/04/16/swim-days/)
 - [psalm 103](https://blog.swang.cloud/2025/04/15/psalm-103/)
-- [limited edition sproul](https://blog.swang.cloud/2025/04/14/limited-edition-sproul/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
