@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [council call](https://blog.swang.cloud/2025/04/25/council-call/)
 - [sermon 47](https://blog.swang.cloud/2025/04/24/sermon-47/)
 - [catechism of the catholic church](https://blog.swang.cloud/2025/04/23/catechism-of-the-catholic-church/)
 - [sermon 46](https://blog.swang.cloud/2025/04/22/sermon-46/)
 - [dad’s birthday, pope’s deathday](https://blog.swang.cloud/2025/04/21/dads-birthday-popes-deathday/)
 - [resurrection sunday](https://blog.swang.cloud/2025/04/20/resurrection-sunday/)
 - [laker game](https://blog.swang.cloud/2025/04/19/laker-game/)
-- [good friday](https://blog.swang.cloud/2025/04/18/good-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
