@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pastor Kenny’s last sermon](https://blog.swang.cloud/2025/04/27/pastor-kennys-last-sermon/)
 - [swimming in the rain](https://blog.swang.cloud/2025/04/26/swimming-in-the-rain/)
 - [council call](https://blog.swang.cloud/2025/04/25/council-call/)
 - [sermon 47](https://blog.swang.cloud/2025/04/24/sermon-47/)
 - [catechism of the catholic church](https://blog.swang.cloud/2025/04/23/catechism-of-the-catholic-church/)
 - [sermon 46](https://blog.swang.cloud/2025/04/22/sermon-46/)
 - [dad’s birthday, pope’s deathday](https://blog.swang.cloud/2025/04/21/dads-birthday-popes-deathday/)
-- [resurrection sunday](https://blog.swang.cloud/2025/04/20/resurrection-sunday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
