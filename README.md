@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [calvin’s sermons on ephesians](https://blog.swang.cloud/2025/04/29/calvins-sermons-on-ephesians/)
 - [spring cleaning](https://blog.swang.cloud/2025/04/28/spring-cleaning/)
-- [Pastor Kenny’s last sermon](https://blog.swang.cloud/2025/04/27/pastor-kennys-last-sermon/)
+- [pastor kenny’s last sermon](https://blog.swang.cloud/2025/04/27/pastor-kennys-last-sermon/)
 - [swimming in the rain](https://blog.swang.cloud/2025/04/26/swimming-in-the-rain/)
 - [council call](https://blog.swang.cloud/2025/04/25/council-call/)
 - [sermon 47](https://blog.swang.cloud/2025/04/24/sermon-47/)
