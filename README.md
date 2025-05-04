@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [new tires](https://blog.swang.cloud/2025/05/03/new-tires/)
 - [air purifier](https://blog.swang.cloud/2025/05/02/air-purifier/)
 - [tree bookshelf](https://blog.swang.cloud/2025/05/01/tree-bookshelf/)
 - [no open lanes](https://blog.swang.cloud/2025/04/30/no-open-lanes/)
 - [calvin’s sermons on ephesians](https://blog.swang.cloud/2025/04/29/calvins-sermons-on-ephesians/)
 - [spring cleaning](https://blog.swang.cloud/2025/04/28/spring-cleaning/)
 - [pastor kenny’s last sermon](https://blog.swang.cloud/2025/04/27/pastor-kennys-last-sermon/)
-- [swimming in the rain](https://blog.swang.cloud/2025/04/26/swimming-in-the-rain/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
