@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [prayer walk](https://blog.swang.cloud/2025/05/09/prayer-walk/)
 - [damaged books](https://blog.swang.cloud/2025/05/08/damaged-books/)
 - [ayce chicken wings](https://blog.swang.cloud/2025/05/07/ayce-chicken-wings/)
 - [haircut day](https://blog.swang.cloud/2025/05/06/haircut-day/)
 - [normal work day](https://blog.swang.cloud/2025/05/05/normal-work-day/)
 - [farewell pastor kenny](https://blog.swang.cloud/2025/05/04/farewell-pastor-kenny/)
 - [new tires](https://blog.swang.cloud/2025/05/03/new-tires/)
-- [air purifier](https://blog.swang.cloud/2025/05/02/air-purifier/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
