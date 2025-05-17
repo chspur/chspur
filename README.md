@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sermon 2](https://blog.swang.cloud/2025/05/16/sermon-2/)
 - [theology at work](https://blog.swang.cloud/2025/05/15/theology-at-work/)
 - [church history and other traditions](https://blog.swang.cloud/2025/05/14/church-history-and-other-traditions/)
 - [what it means to be protestant](https://blog.swang.cloud/2025/05/13/what-it-means-to-be-protestant/)
 - [more aligners](https://blog.swang.cloud/2025/05/12/more-aligners/)
 - [mother’s day](https://blog.swang.cloud/2025/05/11/mothers-day/)
 - [grace and glory](https://blog.swang.cloud/2025/05/10/grace-and-glory/)
-- [prayer walk](https://blog.swang.cloud/2025/05/09/prayer-walk/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
