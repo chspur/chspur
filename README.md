@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [catholic christianity](https://blog.swang.cloud/2025/05/22/catholic-christianity/)
-- [busy day at the pool](https://blog.swang.cloud/2025/05/21/busy-day-at-the-pool/)
-- [new preorders](https://blog.swang.cloud/2025/05/20/new-preorders/)
-- [new towel](https://blog.swang.cloud/2025/05/19/new-towel/)
-- [applying the gospel](https://blog.swang.cloud/2025/05/18/applying-the-gospel/)
-- [sermon 3](https://blog.swang.cloud/2025/05/17/sermon-3/)
-- [sermon 2](https://blog.swang.cloud/2025/05/16/sermon-2/)
+- [catholic christianity](http://blog.swang.cloud/2025/05/22/catholic-christianity/)
+- [busy day at the pool](http://blog.swang.cloud/2025/05/21/busy-day-at-the-pool/)
+- [new preorders](http://blog.swang.cloud/2025/05/20/new-preorders/)
+- [new towel](http://blog.swang.cloud/2025/05/19/new-towel/)
+- [applying the gospel](http://blog.swang.cloud/2025/05/18/applying-the-gospel/)
+- [sermon 3](http://blog.swang.cloud/2025/05/17/sermon-3/)
+- [sermon 2](http://blog.swang.cloud/2025/05/16/sermon-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
