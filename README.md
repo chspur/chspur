@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [devo improvements](http://blog.swang.cloud/2025/05/30/devo-improvements/)
 - [thursday swim](http://blog.swang.cloud/2025/05/29/thursday-swim/)
 - [the fulfillment of the promises of God](http://blog.swang.cloud/2025/05/28/the-fulfillment-of-the-promises-of-God/)
 - [tuesday swim](http://blog.swang.cloud/2025/05/27/tuesday-swim/)
 - [the last hoorah](http://blog.swang.cloud/2025/05/26/the-last-hoorah/)
 - [teacher steve](http://blog.swang.cloud/2025/05/25/teacher-steve/)
 - [jadon and diane day](http://blog.swang.cloud/2025/05/24/jadon-and-diane-day/)
-- [reformed dogmatics](http://blog.swang.cloud/2025/05/23/reformed-dogmatics/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
