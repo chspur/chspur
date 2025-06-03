@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [monday 6:00-6:50AM](http://blog.swang.cloud/2025/06/02/monday/)
 - [dealings with God](http://blog.swang.cloud/2025/06/01/dealings-with-God/)
 - [recentering my life](http://blog.swang.cloud/2025/05/31/recentering-my-life/)
 - [devo improvements](http://blog.swang.cloud/2025/05/30/devo-improvements/)
 - [thursday swim](http://blog.swang.cloud/2025/05/29/thursday-swim/)
 - [the fulfillment of the promises of God](http://blog.swang.cloud/2025/05/28/the-fulfillment-of-the-promises-of-God/)
 - [tuesday swim](http://blog.swang.cloud/2025/05/27/tuesday-swim/)
-- [the last hoorah](http://blog.swang.cloud/2025/05/26/the-last-hoorah/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
