@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [wednesday 6:00-6:50](http://blog.swang.cloud/2025/06/18/wednesday/)
 - [tuesday 6:07-6:51](http://blog.swang.cloud/2025/06/17/tuesday/)
 - [monday 6:00-6:55pm](http://blog.swang.cloud/2025/06/16/monday/)
 - [very tired](http://blog.swang.cloud/2025/06/15/very-tired/)
 - [an eventful day](http://blog.swang.cloud/2025/06/14/an-eventful-day/)
 - [prayer meeting](http://blog.swang.cloud/2025/06/13/prayer-meeting/)
 - [summer swims](http://blog.swang.cloud/2025/06/12/summer-swims/)
-- [wednesday 6:00-6:51am](http://blog.swang.cloud/2025/06/11/wednesday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
