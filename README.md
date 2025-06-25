@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tired as usual](http://blog.swang.cloud/2025/06/24/tired-as-usual/)
 - [sermon 8](http://blog.swang.cloud/2025/06/23/sermon-8/)
 - [the book of church order](http://blog.swang.cloud/2025/06/22/the-book-of-church-order/)
 - [an enjoyable saturday](http://blog.swang.cloud/2025/06/21/an-enjoyable-saturday/)
 - [friday 5:58-6:50am](http://blog.swang.cloud/2025/06/20/friday/)
 - [thursday 6:02-6:55am](http://blog.swang.cloud/2025/06/19/thursday/)
 - [wednesday 6:00-6:50](http://blog.swang.cloud/2025/06/18/wednesday/)
-- [tuesday 6:07-6:51](http://blog.swang.cloud/2025/06/17/tuesday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
