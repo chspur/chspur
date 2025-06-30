@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [always reforming](http://blog.swang.cloud/2025/06/29/always-reforming/)
 - [restful saturday](http://blog.swang.cloud/2025/06/28/restful-saturday/)
 - [vbs day 3](http://blog.swang.cloud/2025/06/27/vbs-day-3/)
 - [vbs day 2](http://blog.swang.cloud/2025/06/26/vbs-day-2/)
 - [vbs day 1](http://blog.swang.cloud/2025/06/25/vbs-day-1/)
 - [tired as usual](http://blog.swang.cloud/2025/06/24/tired-as-usual/)
 - [sermon 8](http://blog.swang.cloud/2025/06/23/sermon-8/)
-- [the book of church order](http://blog.swang.cloud/2025/06/22/the-book-of-church-order/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
