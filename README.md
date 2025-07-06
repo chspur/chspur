@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [good progress](http://blog.swang.cloud/2025/07/04/good-progress/)
 - [deeper communion with God](http://blog.swang.cloud/2025/07/03/deeper-communion-with-God/)
 - [another Bible year finished](http://blog.swang.cloud/2025/07/02/another-Bible-year-finished/)
 - [jasmine milk tea milkshake](http://blog.swang.cloud/2025/07/01/jasmine-milk-tea-milkshake/)
 - [monday 5:59-6:51am](http://blog.swang.cloud/2025/06/30/monday/)
 - [always reforming](http://blog.swang.cloud/2025/06/29/always-reforming/)
 - [restful saturday](http://blog.swang.cloud/2025/06/28/restful-saturday/)
-- [vbs day 3](http://blog.swang.cloud/2025/06/27/vbs-day-3/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
