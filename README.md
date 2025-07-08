@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [clearance books](http://blog.swang.cloud/2025/07/07/clearance-books/)
 - [new students](http://blog.swang.cloud/2025/07/06/new-students/)
 - [eating good](http://blog.swang.cloud/2025/07/05/eating-good/)
 - [good progress](http://blog.swang.cloud/2025/07/04/good-progress/)
 - [deeper communion with God](http://blog.swang.cloud/2025/07/03/deeper-communion-with-God/)
 - [another Bible year finished](http://blog.swang.cloud/2025/07/02/another-Bible-year-finished/)
 - [jasmine milk tea milkshake](http://blog.swang.cloud/2025/07/01/jasmine-milk-tea-milkshake/)
-- [monday 5:59-6:51am](http://blog.swang.cloud/2025/06/30/monday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
