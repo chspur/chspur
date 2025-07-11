@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [elliot and anthony](http://blog.swang.cloud/2025/07/09/elliot-and-anthony/)
 - [tuesday 6:06-6:52am](http://blog.swang.cloud/2025/07/08/tuesday/)
 - [clearance books](http://blog.swang.cloud/2025/07/07/clearance-books/)
 - [new students](http://blog.swang.cloud/2025/07/06/new-students/)
 - [eating good](http://blog.swang.cloud/2025/07/05/eating-good/)
 - [good progress](http://blog.swang.cloud/2025/07/04/good-progress/)
 - [deeper communion with God](http://blog.swang.cloud/2025/07/03/deeper-communion-with-God/)
-- [another Bible year finished](http://blog.swang.cloud/2025/07/02/another-Bible-year-finished/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
