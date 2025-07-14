@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [laying hold of the promises](http://blog.swang.cloud/2025/07/13/laying-hold-of-the-promises/)
 - [oil change](http://blog.swang.cloud/2025/07/12/oil-change/)
 - [prayer meeting](http://blog.swang.cloud/2025/07/11/prayer-meeting/)
 - [sermon 12](http://blog.swang.cloud/2025/07/10/sermon-12/)
 - [elliot and anthony](http://blog.swang.cloud/2025/07/09/elliot-and-anthony/)
 - [tuesday 6:06-6:52am](http://blog.swang.cloud/2025/07/08/tuesday/)
 - [clearance books](http://blog.swang.cloud/2025/07/07/clearance-books/)
-- [new students](http://blog.swang.cloud/2025/07/06/new-students/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
