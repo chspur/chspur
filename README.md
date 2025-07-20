@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sermon 16](http://blog.swang.cloud/2025/07/19/sermon-16/)
 - [summer overcast](http://blog.swang.cloud/2025/07/18/summer-overcast/)
 - [sermon 15](http://blog.swang.cloud/2025/07/17/sermon-15/)
 - [my library](http://blog.swang.cloud/2025/07/16/my-library/)
 - [concordia](http://blog.swang.cloud/2025/07/15/concordia/)
 - [time well spent](http://blog.swang.cloud/2025/07/14/time-well-spent/)
 - [laying hold of the promises](http://blog.swang.cloud/2025/07/13/laying-hold-of-the-promises/)
-- [oil change](http://blog.swang.cloud/2025/07/12/oil-change/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
