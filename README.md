@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [the shadow of Christ in the law of moses](http://blog.swang.cloud/2025/07/23/the-shadow-of-Christ-in-the-law-of-moses/)
 - [confessional lutheranism](http://blog.swang.cloud/2025/07/22/confessional-lutheranism/)
 - [shower prayers](http://blog.swang.cloud/2025/07/21/shower-prayers/)
 - [cm outing](http://blog.swang.cloud/2025/07/20/cm-outing/)
 - [sermon 16](http://blog.swang.cloud/2025/07/19/sermon-16/)
 - [summer overcast](http://blog.swang.cloud/2025/07/18/summer-overcast/)
 - [sermon 15](http://blog.swang.cloud/2025/07/17/sermon-15/)
-- [my library](http://blog.swang.cloud/2025/07/16/my-library/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
