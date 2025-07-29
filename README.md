@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [He cares for me](http://blog.swang.cloud/2025/07/28/He-cares-for-me/)
 - [fantastic four](http://blog.swang.cloud/2025/07/27/fantastic-four/)
 - [homeless ministry](http://blog.swang.cloud/2025/07/26/homeless-ministry/)
 - [thankful for my friends](http://blog.swang.cloud/2025/07/25/thankful-for-my-friends/)
 - [three days in a row](http://blog.swang.cloud/2025/07/24/three-days-in-a-row/)
 - [the shadow of Christ in the law of moses](http://blog.swang.cloud/2025/07/23/the-shadow-of-Christ-in-the-law-of-moses/)
 - [confessional lutheranism](http://blog.swang.cloud/2025/07/22/confessional-lutheranism/)
-- [shower prayers](http://blog.swang.cloud/2025/07/21/shower-prayers/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
