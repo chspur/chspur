@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [edward reynolds](http://blog.swang.cloud/2025/08/01/edward-reynolds/)
 - [power outage](http://blog.swang.cloud/2025/07/31/power-outage/)
 - [wednesday 5:42-6:47am](http://blog.swang.cloud/2025/07/30/wednesday/)
 - [tuesday 5:57-6:50am](http://blog.swang.cloud/2025/07/29/tuesday/)
 - [He cares for me](http://blog.swang.cloud/2025/07/28/He-cares-for-me/)
 - [fantastic four](http://blog.swang.cloud/2025/07/27/fantastic-four/)
 - [homeless ministry](http://blog.swang.cloud/2025/07/26/homeless-ministry/)
-- [thankful for my friends](http://blog.swang.cloud/2025/07/25/thankful-for-my-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
