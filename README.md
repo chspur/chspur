@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [bookshelf assembly](http://blog.swang.cloud/2025/08/07/bookshelf-assembly/)
 - [new bookshelf](http://blog.swang.cloud/2025/08/06/new-bookshelf/)
 - [book progress](http://blog.swang.cloud/2025/08/05/book-progress/)
 - [book haul](http://blog.swang.cloud/2025/08/04/book-haul/)
 - [therefore I work](http://blog.swang.cloud/2025/08/03/therefore-I-work/)
 - [too much league](http://blog.swang.cloud/2025/08/02/too-much-league/)
 - [edward reynolds](http://blog.swang.cloud/2025/08/01/edward-reynolds/)
-- [power outage](http://blog.swang.cloud/2025/07/31/power-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
