@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [new laptop](http://blog.swang.cloud/2025/08/12/new-laptop/)
 - [sermon 69](http://blog.swang.cloud/2025/08/11/sermon-69/)
 - [extremely tired](http://blog.swang.cloud/2025/08/10/extremely-tired/)
 - [elias and kelly](http://blog.swang.cloud/2025/08/09/elias-and-kelly/)
 - [post prayer hangouts](http://blog.swang.cloud/2025/08/08/post-prayer-hangouts/)
 - [bookshelf assembly](http://blog.swang.cloud/2025/08/07/bookshelf-assembly/)
 - [new bookshelf](http://blog.swang.cloud/2025/08/06/new-bookshelf/)
-- [book progress](http://blog.swang.cloud/2025/08/05/book-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
