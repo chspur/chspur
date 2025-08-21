@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [car battery](http://blog.swang.cloud/2025/08/20/car-battery/)
 - [loneliness](http://blog.swang.cloud/2025/08/19/loneliness/)
 - [jonk birthday](http://blog.swang.cloud/2025/08/18/jonk-birthday/)
 - [children’s catechism](http://blog.swang.cloud/2025/08/17/childrens-catechism/)
 - [hearthstone](http://blog.swang.cloud/2025/08/16/hearthstone/)
 - [praise and prayer](http://blog.swang.cloud/2025/08/15/praise-and-prayer/)
 - [seek first the kingdom](http://blog.swang.cloud/2025/08/14/seek-first-the-kingdom/)
-- [wednesday 6:00-6:50am](http://blog.swang.cloud/2025/08/13/wednesday/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
