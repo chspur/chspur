@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [petrus day](http://blog.swang.cloud/2025/08/24/petrus-day/)
+- [homeless ministry](http://blog.swang.cloud/2025/08/23/homeless-ministry/)
 - [God-besotted freak](http://blog.swang.cloud/2025/08/22/God-besotted-freak/)
 - [ccc progress](http://blog.swang.cloud/2025/08/21/ccc-progress/)
 - [car battery](http://blog.swang.cloud/2025/08/20/car-battery/)
 - [loneliness](http://blog.swang.cloud/2025/08/19/loneliness/)
 - [jonk birthday](http://blog.swang.cloud/2025/08/18/jonk-birthday/)
-- [children’s catechism](http://blog.swang.cloud/2025/08/17/childrens-catechism/)
-- [hearthstone](http://blog.swang.cloud/2025/08/16/hearthstone/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
