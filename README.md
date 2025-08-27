@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [handle yourself](http://blog.swang.cloud/2025/08/26/handle-yourself/)
 - [question 60](http://blog.swang.cloud/2025/08/25/question-60/)
 - [petrus day](http://blog.swang.cloud/2025/08/24/petrus-day/)
 - [homeless ministry](http://blog.swang.cloud/2025/08/23/homeless-ministry/)
 - [God-besotted freak](http://blog.swang.cloud/2025/08/22/God-besotted-freak/)
 - [ccc progress](http://blog.swang.cloud/2025/08/21/ccc-progress/)
 - [car battery](http://blog.swang.cloud/2025/08/20/car-battery/)
-- [loneliness](http://blog.swang.cloud/2025/08/19/loneliness/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
