@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [labor day](http://blog.swang.cloud/2025/09/01/labor-day/)
 - [Psalm 67](http://blog.swang.cloud/2025/08/31/Psalm-67/)
 - [knowing God](http://blog.swang.cloud/2025/08/30/knowing-God/)
 - [new lamp](http://blog.swang.cloud/2025/08/29/new-lamp/)
 - [hawaiian day](http://blog.swang.cloud/2025/08/28/hawaiian-day/)
 - [jerome and abelard](http://blog.swang.cloud/2025/08/27/jerome-and-abelard/)
 - [handle yourself](http://blog.swang.cloud/2025/08/26/handle-yourself/)
-- [question 60](http://blog.swang.cloud/2025/08/25/question-60/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
