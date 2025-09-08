@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [look upon Christ](http://blog.swang.cloud/2025/09/07/look-upon-Christ/)
 - [petrus gone](http://blog.swang.cloud/2025/09/06/petrus-gone/)
 - [league with trungy](http://blog.swang.cloud/2025/09/05/league-with-trungy/)
 - [photo shoot](http://blog.swang.cloud/2025/09/04/photo-shoot/)
 - [reading much](http://blog.swang.cloud/2025/09/03/reading-much/)
 - [sweet prayer](http://blog.swang.cloud/2025/09/02/sweet-prayer/)
 - [labor day](http://blog.swang.cloud/2025/09/01/labor-day/)
-- [Psalm 67](http://blog.swang.cloud/2025/08/31/Psalm-67/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
