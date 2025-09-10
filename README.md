@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [got distracted](http://blog.swang.cloud/2025/09/09/got-distracted/)
 - [catechism flashcards](http://blog.swang.cloud/2025/09/08/catechism-flashcards/)
 - [look upon Christ](http://blog.swang.cloud/2025/09/07/look-upon-Christ/)
 - [petrus gone](http://blog.swang.cloud/2025/09/06/petrus-gone/)
 - [league with trungy](http://blog.swang.cloud/2025/09/05/league-with-trungy/)
 - [photo shoot](http://blog.swang.cloud/2025/09/04/photo-shoot/)
 - [reading much](http://blog.swang.cloud/2025/09/03/reading-much/)
-- [sweet prayer](http://blog.swang.cloud/2025/09/02/sweet-prayer/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
