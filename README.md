@@ -45,13 +45,13 @@
 
 ## :writing_hand: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [law and gospel](http://blog.swang.cloud/2025/09/16/law-and-gospel/)
 - [wsc progress](http://blog.swang.cloud/2025/09/15/wsc-progress/)
 - [psalm 81](http://blog.swang.cloud/2025/09/14/psalm-81/)
 - [smog check](http://blog.swang.cloud/2025/09/13/smog-check/)
 - [sing hymnal](http://blog.swang.cloud/2025/09/12/sing-hymnal/)
 - [union with Christ](http://blog.swang.cloud/2025/09/11/union-with-Christ/)
 - [ccc progress](http://blog.swang.cloud/2025/09/10/ccc-progress/)
-- [got distracted](http://blog.swang.cloud/2025/09/09/got-distracted/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="center">
