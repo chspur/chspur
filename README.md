@@ -14,7 +14,6 @@
 ## :sunglasses: About Me
 - :latin_cross: Christian, Protestant, Reformed, Presbyterian
 - :trident: UCSD Computer Science
-- :man_technologist: Product Data Specialist @ Concordia Supply
 - :sparkles: Reading, Swimming, Anime
 
 <div align="center">
